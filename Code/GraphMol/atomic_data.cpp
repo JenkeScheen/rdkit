@@ -3359,6 +3359,6 @@ const std::string isotopesAtomData[] = {
 118 Og  293  293.21356 0 \n \
 118 Og  294  294.21392 0 \n \
 118 Og  295  295.21624 0 \n \
-119 Du 12  12  98.93 \n \",
+119 Du 12  12  98.93 \n",
     "EOS"};
 }  // namespace RDKit
