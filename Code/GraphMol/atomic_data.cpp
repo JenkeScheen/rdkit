@@ -164,6 +164,7 @@ const std::string periodicTableAtomData =
 116	Lv	1.75	0	2.0	293	2	293	293.20449	-1 \n \
 117	Ts	1.65	0	2.0	292	2	292	292.20746	-1 \n \
 118	Og	1.57	0	2.0	294	2	294	294.21392	-1 \n \
+119 Du 0.68  0.77  1.7 12.011  4 12  12  4 \n \
 ";
 
 atomicData::atomicData(const std::string &dataLine) {
@@ -3357,6 +3358,7 @@ const std::string isotopesAtomData[] = {
 117 Ts  294  294.21046 0 \n \
 118 Og  293  293.21356 0 \n \
 118 Og  294  294.21392 0 \n \
-118 Og  295  295.21624 0 \n",
+118 Og  295  295.21624 0 \n \
+119 Du 12  12  98.93 \n \",
     "EOS"};
 }  // namespace RDKit
